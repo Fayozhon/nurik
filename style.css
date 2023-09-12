@@ -12,7 +12,7 @@ main {
 }
 
 .container-1 {
-    background-image: url('./images/photo-1561670653-9fb4207e997d.avif');
+    background-image: url('photo-1561670653-9fb4207e997d.avif');
     background-size: cover;
     padding: 90px;
     border-top-right-radius: 25px;
